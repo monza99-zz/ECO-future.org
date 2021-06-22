@@ -23,8 +23,8 @@ img {
   /* HSL color mode */
   --base-color: hsl(var(--hue) 36% 50%);
   --base-color-second: hsl(var(--hue) 65% 12%);
-  --base-color-alt: hsl(var(--hue) 57% 53%);
-  --title-color: hsl(var(--hue) 41% 10%);
+  --base-color-alt: hsl(var(--hue) 80% 10%);
+  --title-color: hsl(var(--hue) 41% 20%);
   --text-color: hsl(0 0% 46%);
   --text-color-light: hsl(0 0% 98%);
   --body-color: hsl(50 0% 89%);
@@ -163,5 +163,6 @@ main {
 }
 
 #home .text p {
+  color: rgba(0, 0, 0, 0.692);
   margin-bottom: 2rem;
 }
