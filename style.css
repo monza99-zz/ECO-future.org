@@ -352,7 +352,7 @@ nav.show div.icon-close {
   background-color: white;
   box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.233);
   border-bottom: 0.25rem solid var(--base-color);
-  border-radius: 0.25rem 0.25rem 0 0;
+  border-radius: 0.50rem 0.50rem 0 0;
   text-align: center;
 }
 
